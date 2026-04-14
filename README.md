@@ -23,4 +23,4 @@ User → S3 → Lambda → Rekognition → DynamoDB → API Gateway
 3. Open `index.html` in browser
 
 ## Author
-Raj Sumit
+Nitin
